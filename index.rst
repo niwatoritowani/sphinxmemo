@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    testpage1
+   memo1
 
 Indices and tables
 ==================
