@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   aaa
+   testpage1
 
 Indices and tables
 ==================
